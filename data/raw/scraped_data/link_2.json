@@ -1,0 +1,1356 @@
+[
+    {
+        "heading": "Health Conditions",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Breast Cancer",
+                    "Cancer Care",
+                    "Caregiving for Alzheimer's Disease",
+                    "Chronic Kidney Disease",
+                    "Chronic Obstructive Pulmonary Disease (COPD)",
+                    "Digestive Health",
+                    "Eye Health",
+                    "Heart Health",
+                    "Menopause",
+                    "Mental Health",
+                    "Migraine",
+                    "Multiple Sclerosis (MS)",
+                    "Parkinson’s Disease",
+                    "Psoriasis",
+                    "Rheumatoid Arthritis (RA)",
+                    "Sleep Health",
+                    "Type 2 Diabetes",
+                    "Weight Management"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Condition Spotlight",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Controlling Ulcerative Colitis",
+                    "Navigating Life with Bipolar Disorder",
+                    "Mastering Geographic Atrophy",
+                    "Managing Type 2 Diabetes"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Wellness Topics",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "CBD",
+                    "Fitness",
+                    "Healthy Aging",
+                    "Hearing",
+                    "Mental Well-Being",
+                    "Nutrition",
+                    "Parenthood",
+                    "Recipes",
+                    "Sexual Health",
+                    "Skin Care",
+                    "Sleep Health",
+                    "Vitamins and Supplements",
+                    "Women's Wellness"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Product Reviews",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "At-Home Testing",
+                    "Men's Health",
+                    "Mental Health",
+                    "Nutrition",
+                    "Sleep",
+                    "Vitamins and Supplements",
+                    "Women's Health"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Featured Programs",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Your Guide to Glucose Health",
+                    "Inflammation and Aging",
+                    "Cold & Flu Season Survival Guide",
+                    "She’s Good for Real"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Featured",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Video Series",
+                    "Pill Identifier",
+                    "FindCare",
+                    "Drugs A-Z"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Lessons",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Crohn’s and Ulcerative Colitis Essentials",
+                    "Diabetes Nutrition",
+                    "High Cholesterol",
+                    "Taming Inflammation in Psoriasis",
+                    "Taming Inflammation in Psoriatic Arthritis"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Newsletters",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Anxiety and Depression",
+                    "Digestive Health",
+                    "Heart Health",
+                    "Migraine",
+                    "Nutrition Edition",
+                    "Type 2 Diabetes",
+                    "Wellness Wire"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Lifestyle Quizzes",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Find a Diet",
+                    "Find Healthy Snacks",
+                    "Weight Management",
+                    "How Well Do You Sleep?",
+                    "Are You a Workaholic?"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Health News",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Can 6-6-6 Walking Workout Help You Lose Weight?",
+                    "This Couple Lost 118 Pounds Together Without Medication",
+                    "5 Science-Backed Ways to Live a Longer Life",
+                    "Morning Coffee May Help You Live Longer",
+                    "‘Weekend Warrior’ Workouts for Your 2025 Fitness Goals"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "This Just In",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "5 Tips for a Healthy Lifestyle",
+                    "How to Disinfect Your House After the Flu",
+                    "Best Vegan and Plant-Based Meal Delivery for 2025",
+                    "Does Medicare Cover Pneumonia Shots?",
+                    "Chromosomes, Genetics, and Your Health"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Top Reads",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Best Multivitamins for Women",
+                    "Best Multivitamins for Men",
+                    "Best Online Therapy Services",
+                    "Online Therapy That Takes Insurance",
+                    "Buy Ozempic Online",
+                    "Mounjaro Overview"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Video Series",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Youth in Focus",
+                    "Healthy Harvest",
+                    "Through an Artist's Eye",
+                    "Future of Health"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Find Your Bezzy Community",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Bezzy communities provide meaningful connections with others living with chronic conditions. Join Bezzy on the web or mobile app.",
+                "links": []
+            },
+            {
+                "type": "list",
+                "items": [
+                    "Breast Cancer",
+                    "Multiple Sclerosis",
+                    "Depression",
+                    "Migraine",
+                    "Type 2 Diabetes",
+                    "Psoriasis"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Follow us on social media",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Can't get enough? Connect with us for all things health.",
+                "links": []
+            },
+            {
+                "type": "list",
+                "items": [
+                    "Meal KitsOverviewDietsMeal KitsPrepared MealsComparisonsGrocery Delivery",
+                    "Overview",
+                    "Diets",
+                    "Meal Kits",
+                    "Prepared Meals",
+                    "Comparisons",
+                    "Grocery Delivery",
+                    "Special Diets",
+                    "Healthy Eating",
+                    "Food Freedom",
+                    "Conditions",
+                    "Feel Good Food",
+                    "Products",
+                    "Vitamins & Supplements",
+                    "Sustainability",
+                    "Weight Management"
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "Overview",
+                    "Diets",
+                    "Meal Kits",
+                    "Prepared Meals",
+                    "Comparisons",
+                    "Grocery Delivery"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Signs of an Unhealthy Gut and What to Do About It",
+        "level": "h1",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Gut microbiome",
+                    "Effect on health",
+                    "Signs of an unhealthy gut",
+                    "What to do",
+                    "Foods for gut health",
+                    "FAQ",
+                    "Takeaway"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Poor gut health may manifest as fatigue, upset stomach, skin conditions, and autoimmune challenges. Probiotics, fermented foods, hydration, and stress management can help.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "What is the gut microbiome and why is it important?",
+        "level": "h2",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "The term “gut microbiome” refers to the microorganisms living in your intestines. Each person has about200 different speciesof bacteria, viruses, and fungi in their digestive tract.",
+                "links": [
+                    {
+                        "text": "gut microbiome",
+                        "url": "https://www.healthline.com/nutrition/gut-microbiome-and-health"
+                    },
+                    {
+                        "text": "200 different species",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682904/"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Some microorganisms are harmful to our health, but many are incredibly beneficial and even necessary for a healthy body.",
+                "links": []
+            },
+            {
+                "type": "paragraph",
+                "text": "Researchindicates that having a large variety of bacteria in the gut may help reduce the risk of conditions like:",
+                "links": [
+                    {
+                        "text": "Research",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6000740/"
+                    }
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "diabetes",
+                    "inflammatory bowel disease (IBD)",
+                    "psoriatic arthritis"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "In other words, your gut health is often related to your overall health.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "How does the gut microbiome affect your health?",
+        "level": "h2",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "The incredible complexity of the gut and its importance to our overall health is a topic of increasing research in the medical community.",
+                "links": []
+            },
+            {
+                "type": "paragraph",
+                "text": "Researchover the past few decades has found links between gut health and:",
+                "links": [
+                    {
+                        "text": "Research",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682904/"
+                    }
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "mental health disorders",
+                    "autoimmune diseases",
+                    "endocrine conditions",
+                    "gastrointestinal disorders",
+                    "cardiovascular disease",
+                    "cancer"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "A higher level of diversity in gut bacteria may be associated with improved general mental and physical health.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "7 signs of an unhealthy gut",
+        "level": "h2",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Many parts of modern life can affect your gut microbiome, including:",
+                "links": []
+            },
+            {
+                "type": "list",
+                "items": [
+                    "high stress levels",
+                    "too little sleep",
+                    "eating aWestern diethigh in processed and sugary foods",
+                    "takingantibiotics"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "This in turn may affect other aspects of your health, such as:",
+                "links": []
+            },
+            {
+                "type": "list",
+                "items": [
+                    "immune function",
+                    "hormone levels",
+                    "weight",
+                    "development of diseases"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "You may notice a few symptoms if you have reduced gut health. Here are seven of the most common signs:",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "1. Upset stomach",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Stomach disturbances can all be signs of an unhealthy gut. They include:",
+                "links": []
+            },
+            {
+                "type": "list",
+                "items": [
+                    "gas",
+                    "bloating",
+                    "constipation",
+                    "diarrhea",
+                    "heartburn"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "A balanced gut will have less difficulty processing food and eliminating waste, likely leading to fewer symptoms.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "2. A high-sugar diet",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "A diet high inprocessed foodsand added sugars can decrease the amount of “good” bacteria and diversity in your gut.",
+                "links": [
+                    {
+                        "text": "processed foods",
+                        "url": "https://www.healthline.com/health/food-nutrition/processed-foods-to-avoid"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Researchsuggests that eating too much sugar may lead to increased inflammation throughout the body.Inflammationcan be the precursor to several diseases, including cancer.",
+                "links": [
+                    {
+                        "text": "Research",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284805/"
+                    },
+                    {
+                        "text": "Inflammation",
+                        "url": "https://www.healthline.com/nutrition/sugar-and-inflammation#section1"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "If you eat high amounts of sugar, your gut health may be compromised.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "3. Unintentional weight changes",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Gaining or losing weight without changing your diet or exercise habits may be a sign of an unhealthy gut. An imbalanced gut can impair your body’s ability to absorb nutrients, regulate blood sugar, and store fat.",
+                "links": []
+            },
+            {
+                "type": "paragraph",
+                "text": "Weight loss may be caused by malabsorption because ofsmall intestinal bacterial overgrowth (SIBO). On the other hand, weight gain may be caused byinsulin resistanceor increased inflammation.",
+                "links": [
+                    {
+                        "text": "small intestinal bacterial overgrowth (SIBO)",
+                        "url": "https://www.healthline.com/health/sibo"
+                    },
+                    {
+                        "text": "insulin resistance",
+                        "url": "https://www.healthline.com/nutrition/insulin-and-insulin-resistance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "4. Sleep disturbances or constant fatigue",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Researchindicates that an imbalance in gut bacteria may be linked to fragmented sleep and short sleep duration, which may lead to chronic fatigue.",
+                "links": [
+                    {
+                        "text": "Research",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/32668369/"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "While the cause remainsunclear, it appears to be connected to inflammation, metabolic function, and mental health.",
+                "links": [
+                    {
+                        "text": "unclear",
+                        "url": "https://pubmed.ncbi.nlm.nih.gov/30568608/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "5. Skin irritation",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Skin conditions likepsoriasismay be related to the types of bacteria present in the gut. Lower concentrations of beneficial bacteria may impact the body’s immune system and your skin health.",
+                "links": [
+                    {
+                        "text": "psoriasis",
+                        "url": "https://www.healthline.com/health/psoriasis"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "6. Autoimmune conditions",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Manystudieshave found connections between the gut and the immune system.",
+                "links": [
+                    {
+                        "text": "studies",
+                        "url": "https://www.tandfonline.com/doi/full/10.1080/17474124.2018.1517044"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "An unhealthy gut may increase systemic inflammation and alter the proper functioning of the immune system. This may lead toautoimmune diseases, where the body attacks itself mistaking its cells and organs for harmful invaders.",
+                "links": [
+                    {
+                        "text": "autoimmune diseases",
+                        "url": "https://www.healthline.com/health/autoimmune-disorders"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "7. Food intolerances",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Food intolerancesare the result of difficulty digesting certain foods. This is different than afood allergy, which is caused by an immune system reaction to certain foods.",
+                "links": [
+                    {
+                        "text": "Food intolerances",
+                        "url": "https://www.healthline.com/nutrition/common-food-intolerances"
+                    },
+                    {
+                        "text": "food allergy",
+                        "url": "https://www.healthline.com/health/allergies/food-allergy-sensitivity-difference"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Researchindicates that food intolerances, like lactose intolerance, may be caused by poor quality of bacteria in the gut. This can lead to trouble digesting the trigger foods and symptoms like:",
+                "links": [
+                    {
+                        "text": "Research",
+                        "url": "https://gut.bmj.com/content/71/1/215"
+                    }
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "bloating",
+                    "gas",
+                    "diarrhea",
+                    "abdominal pain",
+                    "nausea"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "There is also someresearchindicating that food allergies may be related to gut health.",
+                "links": [
+                    {
+                        "text": "research",
+                        "url": "https://journals.lww.com/co-pediatrics/Fulltext/2016/12000/The_role_of_the_gut_microbiota_in_food_allergy.14.aspx"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "7 things you can do for your gut health",
+        "level": "h2",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "You may be able to improve and reset your gut health through lifestyle and diet changes. Consider trying one or more of the following to improve your gut health naturally:",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "1. Lower your stress levels",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Chronic high levels of stress are hard on your whole body, including your gut. This is because your body releases certain hormones when it experiences stress. High levels of these hormones affect your body and may compromise gut health.",
+                "links": []
+            },
+            {
+                "type": "paragraph",
+                "text": "A fewways to lower stressmay include:",
+                "links": [
+                    {
+                        "text": "ways to lower stress",
+                        "url": "https://www.healthline.com/health/10-ways-to-relieve-stress"
+                    }
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "meditating",
+                    "walking",
+                    "getting amassage",
+                    "spending time with friends or family",
+                    "diffusingessential oils",
+                    "limiting alcohol intake",
+                    "laughing",
+                    "practicingyoga",
+                    "spending time with a pet"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "2. Get enough sleep",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Not getting enough or sufficientquality of sleepmay have serious impacts on your gut health, which can in turn contribute to more sleep issues.",
+                "links": [
+                    {
+                        "text": "quality of sleep",
+                        "url": "https://www.healthline.com/nutrition/17-tips-to-sleep-better"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Try to prioritize getting at least7–8 hoursof uninterrupted sleep per night. Your doctor may be able to help if you havetrouble sleeping.",
+                "links": [
+                    {
+                        "text": "7–8 hours",
+                        "url": "https://www.cdc.gov/sleep/about_sleep/how_much_sleep.html"
+                    },
+                    {
+                        "text": "trouble sleeping",
+                        "url": "https://www.healthline.com/health/sleep/disorders"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "3. Eat slowly",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Chewing your food thoroughly andeating your meals more slowlymay lower your chances of developing obesity and diabetes while also helping you make better food choices.",
+                "links": [
+                    {
+                        "text": "eating your meals more slowly",
+                        "url": "https://www.healthline.com/nutrition/mindful-eating-guide"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "This may help you reduce digestive discomfort and maintain a healthy gut.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "4. Stay hydrated",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Drinking plenty of water may be linked to increased diversity of bacteria in the gut, though the source of the water also matters.",
+                "links": []
+            },
+            {
+                "type": "paragraph",
+                "text": "One2022 studyalso found that people who drank more water had less of a type of bacteria that can cause gastrointestinal infections.",
+                "links": [
+                    {
+                        "text": "2022 study",
+                        "url": "https://academic.oup.com/jn/article/152/1/171/6395031"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Staying hydratedbenefits your health overall and can help prevent constipation. It may also be a simple way to promote a healthy gut.",
+                "links": [
+                    {
+                        "text": "Staying hydrated",
+                        "url": "https://www.healthline.com/nutrition/7-health-benefits-of-water"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "5. Take a prebiotic or probiotic",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Whileresearchis ongoing, adding aprebiotic or probioticsupplement to your diet may help improve your gut health. Prebiotics provide “food” meant to promote the growth of beneficial bacteria in the gut, while probiotics are live good bacteria.",
+                "links": [
+                    {
+                        "text": "research",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8512487/"
+                    },
+                    {
+                        "text": "prebiotic or probiotic",
+                        "url": "https://www.healthline.com/nutrition/probiotics-and-prebiotics"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "People who have a severe illness or a weakened immune system should not take probiotics. Also, not all probiotic supplements are high quality or beneficial for your health.",
+                "links": []
+            },
+            {
+                "type": "paragraph",
+                "text": "It’s best to speak with a healthcare professional when choosing a probiotic or prebiotic supplement to help improve your health.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "6. Check for food intolerances",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "You may have a food intolerance if you have symptoms such as:",
+                "links": []
+            },
+            {
+                "type": "list",
+                "items": [
+                    "bloating",
+                    "abdominal pain",
+                    "diarrhea",
+                    "gas",
+                    "nausea",
+                    "fatigue",
+                    "acid reflux"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "You can try eliminatingcommon trigger foodsto see if your symptoms improve. If you’re able to identify and avoid a food or foods that are contributing to your symptoms, you may see a positive change in your digestive health.",
+                "links": [
+                    {
+                        "text": "common trigger foods",
+                        "url": "https://www.healthline.com/nutrition/common-food-intolerances"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "7. Change your diet",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Reducing the amount of processed, sugary, and high fat foods that you eat may lead to better gut health.",
+                "links": []
+            },
+            {
+                "type": "paragraph",
+                "text": "Eating a diet high infiberlikely contributes to a healthy gut microbiome as well. You may also positively impact your gut by eating foods high in micronutrients calledpolyphenolspresent in:",
+                "links": [
+                    {
+                        "text": "fiber",
+                        "url": "https://www.healthline.com/health/food-nutrition/fiber-diet-good-for-gut-and-health"
+                    },
+                    {
+                        "text": "polyphenols",
+                        "url": "https://www.healthline.com/nutrition/polyphenols"
+                    }
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "vegetables",
+                    "fruits",
+                    "coffee",
+                    "tea",
+                    "wine"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "4 types of food for gut health",
+        "level": "h2",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Diet and gut health appear to be very closely linked. Avoiding processed foods, high fat foods, and foods high in refined sugars is likely important for maintaining a healthy microbiome, as these foods may promote the growth of damaging bacteria.",
+                "links": []
+            },
+            {
+                "type": "paragraph",
+                "text": "You can eat certain foods that actively promote the growth of beneficial bacteria, contributing to your overall health. These superfoods for gut health include:",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "1. High fiber foods",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Researchindicates thathigh fiber foodshave a positive impact on gut health. These foods include:",
+                "links": [
+                    {
+                        "text": "Research",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8153313/"
+                    },
+                    {
+                        "text": "high fiber foods",
+                        "url": "https://www.healthline.com/nutrition/22-high-fiber-foods"
+                    }
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "legumes, like black beans and chickpeas",
+                    "whole grains, like oats and quinoa",
+                    "vegetables, like broccoli and asparagus",
+                    "nuts, like almonds and pistachios",
+                    "fruits, like apples and peaches"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "2. Garlic",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "According to a2019 studyin rodents,garlicmay increase gut microbiome diversity and improve gut health.",
+                "links": [
+                    {
+                        "text": "2019 study",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6627858/"
+                    },
+                    {
+                        "text": "garlic",
+                        "url": "https://www.healthline.com/nutrition/11-proven-health-benefits-of-garlic"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "A small2018 studyof 49 people similarly found that aged garlic extract increased diversity and levels of beneficial bacteria. Still, more research in humans should be done.",
+                "links": [
+                    {
+                        "text": "2018 study",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6297383/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "3. Fermented foods",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Fermented foodsare great dietary sources of probiotics. Examples include:",
+                "links": [
+                    {
+                        "text": "Fermented foods",
+                        "url": "https://www.healthline.com/nutrition/8-fermented-foods"
+                    }
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "kimchi",
+                    "sauerkraut",
+                    "yogurt",
+                    "kefir"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Researchsuggests that consuming these foods may improve the gut microbiome.",
+                "links": [
+                    {
+                        "text": "Research",
+                        "url": "https://academic.oup.com/jn/article/150/7/1680/5814068?login=true"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "4. Collagen-boosting foods",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Collagen-rich foods such asbone brothand salmon skin may be beneficial for both overall health and gut health.",
+                "links": [
+                    {
+                        "text": "bone broth",
+                        "url": "https://www.healthline.com/nutrition/bone-broth-101"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "A2021 studyindicated that supplements with collagen may benefit the gut microbiome in mice, though further research is needed.",
+                "links": [
+                    {
+                        "text": "2021 study",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8151984/"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "You could also try to boost yourbody’s collagen productionthrough your diet. To help your body make collagen, try eating more:",
+                "links": [
+                    {
+                        "text": "body’s collagen production",
+                        "url": "https://www.healthline.com/nutrition/collagen"
+                    }
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "citrus fruits",
+                    "broccoli",
+                    "meat",
+                    "eggs",
+                    "nuts"
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Frequently asked questions",
+        "level": "h2",
+        "content": []
+    },
+    {
+        "heading": "Why does the gut microbiome vary in individuals?",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "The gut microbiome is affected by many factors, including:",
+                "links": []
+            },
+            {
+                "type": "list",
+                "items": [
+                    "diet",
+                    "environment",
+                    "antibiotic use",
+                    "stress",
+                    "sleep",
+                    "genetics"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Each of these elements varies in different people, influencing their gut microbiomes in different ways. This variation results in individuals having unique gut microbiomes.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "How does the gut microbiome respond to fasting?",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Fasting seems to benefit the gut microbiome, though more research in humans needs to be done.",
+                "links": []
+            },
+            {
+                "type": "paragraph",
+                "text": "According to one small2019 studyof 16 people, fasting was linked to lower levels of a bacteria that promotes colorectal cancer.",
+                "links": [
+                    {
+                        "text": "2019 study",
+                        "url": "https://www.sciencedirect.com/science/article/pii/S2590097819300035"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Research in animals also shows the benefits of fasting. A2018 studyin fruit flies found thatintermittent fastingappeared to improve gut health and increase lifespan. Another2019 studyin mice indicated that fasting promoted the growth of beneficial gut bacteria and reduced inflammation in the intestines.",
+                "links": [
+                    {
+                        "text": "2018 study",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5988561/"
+                    },
+                    {
+                        "text": "intermittent fasting",
+                        "url": "https://www.healthline.com/nutrition/intermittent-fasting-guide"
+                    },
+                    {
+                        "text": "2019 study",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6528490/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "Does eating probiotics actually change your gut microbiome?",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Some studies have found no impact of probiotics on the gut microbiome. Still, otherresearchsuggests that probiotics may significantly affect the makeup of the gut microbiome and positively impact other areas of health, like immunity.",
+                "links": [
+                    {
+                        "text": "research",
+                        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8512487/"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Studies are still being done in this area.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "How can I improve my gut health?",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "You can improve your gut health by taking steps to improve your overall health. This can include eating more fiber-rich foods, eating fewer ultra-processed foods, getting enough sleep, and managing your stress levels.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "What are the signs of an unhealthy gut?",
+        "level": "h3",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "Some signs of unbalanced gut bacteria can include upset stomach, unintentional weight changes, and fatigue.",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "Takeaway",
+        "level": "h2",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "The human gut is complex. While research is ongoing, it seems clear that the gut microbiome impacts whole-body health. A healthy gut contributes to:",
+                "links": []
+            },
+            {
+                "type": "list",
+                "items": [
+                    "a strong immune system",
+                    "heart health",
+                    "brain health",
+                    "improved mood",
+                    "healthy sleep",
+                    "effective digestion",
+                    "potential prevention of some cancers and autoimmune diseases"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Lifestyle and dietary changes may positively affect not only your gut health but your overall health.",
+                "links": []
+            },
+            {
+                "type": "paragraph",
+                "text": "",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "How we reviewed this article:",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Aoun A, et al. (2020). The influence of the gut microbiome on obesity in adults and the role of probiotics, prebiotics, and synbiotics for weight loss.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7333005/",
+                    "Axarlis K, et al. (2021). Diet supplementation with fish-derived extracts suppresses diabetes and modulates intestinal microbiome in a murine model of diet-induced obesity.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8151984/",
+                    "Balakrishnan B, et al. (2018). Microbial modulation of the gut microbiome for treating autoimmune diseases.https://www.tandfonline.com/doi/full/10.1080/17474124.2018.1517044",
+                    "Caminero A, et al. (2019). Mechanisms by which gut microorganisms influence food sensitivities.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6767923/",
+                    "Catterson JH, et al. (2018). Short-term, intermittent fasting induces long-lasting gut health and tor-independent lifespan extension.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5988561/",
+                    "Chen K, et al. (2019). Preventive effects and mechanisms of garlic on dyslipidemia and gut microbiome dysbiosis.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6627858/",
+                    "Colpitts SL, et al. (2017). Influence of the gut microbiome on autoimmunity in the central nervous system.https://www.jimmunol.org/content/198/2/596.short",
+                    "Cronin P, et al. (2021). Dietary fibre modulates the gut microbiota.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8153313/",
+                    "Gois MFB, et al. (2021). Role of the gut microbiome in mediating lactose intolerance symptoms.https://gut.bmj.com/content/71/1/215",
+                    "He Y, et al. (2019). Fasting challenges human gut microbiome resilience and reduces Fusobacterium.https://www.sciencedirect.com/science/article/pii/S2590097819300035",
+                    "Hills, RD Jr., et al. (2019). Gut microbiome: Profound implications for diet and disease.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682904/",
+                    "How much sleep do I need? (2017).https://www.cdc.gov/sleep/about_sleep/how_much_sleep.html",
+                    "Hurst Y, et al. (2018). Effects of changes in eating speed on obesity in patients with diabetes: A secondary analysis of longitudinal health check-up data.https://bmjopen.bmj.com/content/8/1/e019589",
+                    "Jung S-E, et al. (2017). Obesity is inversely related to hydrogen-producing small intestinal bacterial overgrowth in non-constipation irritable bowel syndrome.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5426230/",
+                    "Leeming ER, et al. (2019). Effect of diet on the gut microbiota: Rethinking intervention duration.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6950569/",
+                    "Li Y, et al. (2018). The role of microbiome in insomnia, circadian disturbance and depression.https://pubmed.ncbi.nlm.nih.gov/30568608/",
+                    "Lio PA, et al. (2021). Leaky gut and atopic dermatitis: Does the concept hold water or is it full of holes?https://nationaleczema.org/leaky-gut/",
+                    "Madison A, et al. (2019). Stress, depression, diet, and the gut microbiota: human–bacteria interactions at the core of psychoneuroimmunology and nutrition.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7213601/",
+                    "Matenchuk BA, et al. (2020). Sleep, circadian rhythm, and gut microbiota.https://pubmed.ncbi.nlm.nih.gov/32668369/",
+                    "Poroyko VA, et al. (2016). Chronic sleep disruption alters gut microbiota, induces systemic and adipose tissue inflammation and insulin resistance in mice.https://www.nature.com/articles/srep35405",
+                    "Probiotics: What you need to know. (2019).https://www.nccih.nih.gov/health/probiotics-what-you-need-to-know",
+                    "Rachid R, et al. (2016). The role of gut microbiota in food allergy.https://journals.lww.com/co-pediatrics/Abstract/2016/12000/The_role_of_the_gut_microbiota_in_food_allergy.14.aspx",
+                    "Rangan P, et al. (2019). Fasting-mimicking diet modulates microbiota and promotes intestinal regeneration to reduce inflammatory bowel disease pathology.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6528490/",
+                    "Ried K, et al. (2018). The effect of kyolic aged garlic extract on gut microbiota, inflammation, and cardiovascular markers in hypertensives: The GarGIC trial.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6297383/",
+                    "Salem I, et al. (2018). The gut microbiome as a major regulator of the gut-skin axis.https://www.frontiersin.org/articles/10.3389/fmicb.2018.01459/full",
+                    "Samadi N, et al. (2018). The role of gastrointestinal permeability in food allergy.https://www.annallergy.org/article/S1081-1206(18)30376-4/fulltext",
+                    "Satokari R. (2020). High intake of sugar and the balance between pro- and anti-inflammatory gut bacteria.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284805/",
+                    "Smith RP, et al. (2019). Gut microbiome diversity is associated with sleep physiology in humans.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6779243/",
+                    "Stiemsma LT, et al. (2020). Does consumption of fermented foods modify the human gut microbiota?https://academic.oup.com/jn/article/150/7/1680/5814068?login=true",
+                    "Useros NR, et al. (2015). HYDRAGUT study: Influence of HYDRAtion status on the GUT microbiota and their impact on the immune system.https://www.fasebj.org/doi/abs/10.1096/fasebj.29.1_supplement.593.1",
+                    "Valdes AM, et al. (2018). Role of the gut microbiota in nutrition and health.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6000740/",
+                    "Vanhaecke T, et al. (2022). Drinking water source and intake are associated with distinct gut microbiota signatures in US and UK populations.https://academic.oup.com/jn/article/152/1/171/6395031",
+                    "Wang X, et al. (2021). Probiotics regulate gut microbiota: An effective method to improve immunity.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8512487/",
+                    "Yano JM, et al. (2015). Indigenous bacteria from the gut microbiota regulate host serotonin biosynthesis.https://www.cell.com/cell/fulltext/S0092-8674(15)00248-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867415002482%3Fshowall%3Dtrue",
+                    "Zhang Y-J, et al. (2015). Impacts of gut bacteria on human health and diseases.https://www.mdpi.com/1422-0067/16/4/7493"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Share this article",
+                "links": []
+            }
+        ]
+    },
+    {
+        "heading": "Read this next",
+        "level": "h3",
+        "content": [
+            {
+                "type": "list",
+                "items": [
+                    "Fish Oil for Kids: The 7 Best Options According to a DietitianMost kids can get enough omegas from a balanced diet, but fish oil supplements for kids can be useful for those who are picky eaters, when recommended…READ MORE",
+                    "",
+                    "The Best L-Glutamine Supplements 2025Written byAlice Porter-McLaughlinL-glutamine supplements may have various health benefits. Learn about our top L-glutamine picks and how they compare.READ MORE",
+                    "Say ‘Sup’ to Healthline’s Vitamin and Supplement TestersWritten byAlice Porter-McLaughlinMeet our team of vitamin, mineral, and supplement testers. We delve into their health goals and experiences.READ MORE",
+                    "What Is a Low Vitamin D Level?The number describing a low vitamin D level may vary between individuals. Learn more about numbers to be aware of and other considerations.READ MORE",
+                    "Double Wood Supplements Review: A Dietitian’s TakeWritten byKelli McGrane, MS, RDDouble Wood Supplements offers products that may support various health needs. Learn about the brand's supplements, how they work, and the pros and…READ MORE",
+                    "Hiya Vitamins Review By a Mom Who Is a DietitianWritten byKelli McGrane, MS, RDOur dietitian and her toddler put Hiya vitamins to the test. Learn more about Hiya vitamins and whether they're worth considering for your kid.READ MORE",
+                    "What to Know About Vitamin K1Written bySarah GaroneVitamin K1 helps your blood clot and has other health benefits. Most people can get enough vitamin K1 from a healthy diet with dark green leafy…READ MORE",
+                    "Malanga Health Benefits and MoreMedically reviewed byNatalie Olsen, R.D., L.D., ACSM EP-CREAD MORE",
+                    "Importance of Vitamin B12 and How to Recognize a DeficiencyMedically reviewed bythe Healthline Medical NetworkVitamin B12 is an essential nutrient that plays many critical roles in the body. Learn about its many health benefits, symptoms of a deficiency, and…READ MORE"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Most kids can get enough omegas from a balanced diet, but fish oil supplements for kids can be useful for those who are picky eaters, when recommended…",
+                "links": [
+                    {
+                        "text": "Most kids can get enough omegas from a balanced diet, but fish oil supplements for kids can be useful for those who are picky eaters, when recommended…",
+                        "url": "https://www.healthline.com/health/childrens-health/fish-oil-for-kids?utm_source=ReadNext"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "L-glutamine supplements may have various health benefits. Learn about our top L-glutamine picks and how they compare.",
+                "links": [
+                    {
+                        "text": "L-glutamine supplements may have various health benefits. Learn about our top L-glutamine picks and how they compare.",
+                        "url": "https://www.healthline.com/nutrition/best-l-glutamine-supplement?utm_source=ReadNext"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Meet our team of vitamin, mineral, and supplement testers. We delve into their health goals and experiences.",
+                "links": [
+                    {
+                        "text": "Meet our team of vitamin, mineral, and supplement testers. We delve into their health goals and experiences.",
+                        "url": "https://www.healthline.com/nutrition/meet-our-vms-testers?utm_source=ReadNext"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "The number describing a low vitamin D level may vary between individuals. Learn more about numbers to be aware of and other considerations.",
+                "links": [
+                    {
+                        "text": "The number describing a low vitamin D level may vary between individuals. Learn more about numbers to be aware of and other considerations.",
+                        "url": "https://www.healthline.com/health/menopause/whats-considered-a-low-vitamin-d-level?utm_source=ReadNext"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Double Wood Supplements offers products that may support various health needs. Learn about the brand's supplements, how they work, and the pros and…",
+                "links": [
+                    {
+                        "text": "Double Wood Supplements offers products that may support various health needs. Learn about the brand's supplements, how they work, and the pros and…",
+                        "url": "https://www.healthline.com/nutrition/double-wood-supplements-review?utm_source=ReadNext"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Our dietitian and her toddler put Hiya vitamins to the test. Learn more about Hiya vitamins and whether they're worth considering for your kid.",
+                "links": [
+                    {
+                        "text": "Our dietitian and her toddler put Hiya vitamins to the test. Learn more about Hiya vitamins and whether they're worth considering for your kid.",
+                        "url": "https://www.healthline.com/nutrition/hiya-vitamins-reviews?utm_source=ReadNext"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Vitamin K1 helps your blood clot and has other health benefits. Most people can get enough vitamin K1 from a healthy diet with dark green leafy…",
+                "links": [
+                    {
+                        "text": "Vitamin K1 helps your blood clot and has other health benefits. Most people can get enough vitamin K1 from a healthy diet with dark green leafy…",
+                        "url": "https://www.healthline.com/nutrition/vitamin-k1?utm_source=ReadNext"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "Vitamin B12 is an essential nutrient that plays many critical roles in the body. Learn about its many health benefits, symptoms of a deficiency, and…",
+                "links": [
+                    {
+                        "text": "Vitamin B12 is an essential nutrient that plays many critical roles in the body. Learn about its many health benefits, symptoms of a deficiency, and…",
+                        "url": "https://www.healthline.com/health/video/vitamin-b12-benefits?utm_source=ReadNext"
+                    }
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "About Us",
+                    "Contact Us",
+                    "Privacy Policy",
+                    "Privacy Settings",
+                    "Advertising Policy",
+                    "Health Topics"
+                ]
+            },
+            {
+                "type": "list",
+                "items": [
+                    "Sitemap",
+                    "Medical Affairs",
+                    "Content Integrity",
+                    "Newsletters",
+                    "© 2025 Healthline Media LLC. All rights reserved. Healthline Media is an RVO Health Company. Our website services, content, and products are for informational purposes only. Healthline Media does not provide medical advice, diagnosis, or treatment.See additional information."
+                ]
+            },
+            {
+                "type": "paragraph",
+                "text": "OUR BRANDS",
+                "links": []
+            }
+        ]
+    }
+]

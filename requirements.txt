@@ -1,0 +1,13 @@
+numpy >=1.23.0
+pandas >=1.5.0    
+beautifulsoup4  
+requests
+playwright
+selenium
+
+
+
+
+
+
+#   pip install -r requirements.txt

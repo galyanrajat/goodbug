@@ -143,6 +143,7 @@ env.bak/
 venv.bak/
 medvenv/
 venvgoodbug/
+venvgoodbugs/
 .env
 
 # Spyder project settings
