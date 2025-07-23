@@ -67,7 +67,7 @@ def main():
         """
 
         # HuggingFace LLM settings
-        HUGGINGFACE_REPO_ID = "tiiuae/falcon-7b-instruct"  # <-- Compatible model
+        HUGGINGFACE_REPO_ID = "sentence-transformers/all-MiniLM-L6-v2"  # <-- Compatible model
         HF_TOKEN = os.environ.get("HF_TOKEN")
 
         try:
